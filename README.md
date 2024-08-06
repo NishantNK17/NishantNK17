@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Nishant
 
-<!--
-**NishantNK17/NishantNK17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced data professional specializing in analytics, visualization.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mechanical Engineer, but programmer by passion
+- Interested in Data Science & Analytics
+- Loves to play cricket 🏋️‍♂️ and chess
+
+
+
+## 🛠️ Skills
+- **Languages**: Python, SQL
+- **Tools**: MS-Excel, Tableau, Power bi
+
+
+
+## 📫 How to reach me
+- **Email**: nishantkul2000@gmail.com
+- **LinkedIn**: www.linkedin.com/in/nishant-kulkarni17
